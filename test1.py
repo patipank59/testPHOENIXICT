@@ -1,4 +1,4 @@
-# จัดลำดับของ player ตาม score และใส่ rank ให้กับตามลำดับแรงจาก score มากสุด
+# จัดลำดับของ player ตาม score และใส่ rank ให้ตามลำดับเรียงจาก score มากสุด
 
 player = [
     {'Name':'A', 'score': 50},
