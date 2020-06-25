@@ -12,5 +12,10 @@ obj = {
     }
 }
 
+def search(value):
+    return value['key1']['key4']['key5']
+
+print('result')
+print(search(obj))
 # result
 # 'key5'
